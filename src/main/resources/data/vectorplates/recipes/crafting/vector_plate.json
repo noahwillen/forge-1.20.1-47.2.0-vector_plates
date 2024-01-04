@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "DDD",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stone_slab"
+    },
+    "D": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "vectorplates:vector_plate",
+    "count": 6
+  }
+}

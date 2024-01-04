@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vectorplates:block/vector_plate"
+    },
+    "facing=east": {
+      "model": "vectorplates:block/vector_plate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vectorplates:block/vector_plate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vectorplates:block/vector_plate",
+      "y": 270
+    }
+  }
+}
